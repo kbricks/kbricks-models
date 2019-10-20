@@ -4,7 +4,7 @@
 
 I actually don't like weapons but I have no objections agains NERF and rubber guns. The kbricks rubber band gun is supposed to demonstrate that you cannot only build cars from kbricks parts.
 
-  ![kbricks rubber band gun](img/rubber_band_gun.jpg)
+  ![kbricks rubber band gun](img/kbricks_rubber_band_gun.jpg)
 
 ## Printing instructions
 
