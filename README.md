@@ -7,7 +7,7 @@ This repository contains a growing collection of example models that can be buil
 |Description|Picture|
 |-----------|-------|
 |[Tractor with functioning steering.](tractor)| ![image of kbricks tractor](tractor/img/kbricks_tractor.png)|
-|[Forklift with a functioning steering, a forklift unit that can be tilted, and a fork that can be moved up and down.](forklift)| ![image of kbricks forklift](forklift/img/kbricks_forklift.png)|
+|[Forklift with a functioning steering and forklift unit.](forklift)| ![image of kbricks forklift](forklift/img/kbricks_forklift.png)|
 |[Racing car with a functioning steering.](racing_car)| ![image of kbricks racing car](racing_car/img/kbricks_racing_car_2.png)|
 |[Tipper truck with a functioning steering and tilt mechanism.](tipper_truck)| ![image of kbricks tipper truck](tipper_truck/img/kbricks_tipper_truck.jpg)|
 |[Toy gun to be used with loom rubber bands.](rubber_band_gun)| ![image of kbricks rubber band gun](rubber_band_gun/img/kbricks_rubber_band_gun.jpg)|
